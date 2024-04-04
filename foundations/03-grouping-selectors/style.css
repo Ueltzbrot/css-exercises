@@ -1,0 +1,17 @@
+.gleich,
+.ungleich{
+    font-size: 28px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.gleich{
+
+background-color: black;
+color: beige;
+font-weight: bold;
+}
+
+.ungleich{
+background-color: yellow;
+
+}
